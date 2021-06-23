@@ -1,6 +1,7 @@
 <details>
 <summary> HTML </summary>
 
++ 3 part html
 <details>
 <summary> index </summary> 
 
@@ -43,7 +44,6 @@
 ```
 
 </details>
-
 <details>
 <summary> about </summary>
 
@@ -89,7 +89,6 @@ header{
 ```
 
 </details>
-
 <details>
 <summary> contacts </summary>
 
@@ -135,12 +134,12 @@ header{
 ```
 
 </details>
-
 </details>
 
 <details>
 <summary> CSS </summary>
 
++ 2 part CSS
 <details>
 <summary> main </summary>
 
@@ -231,7 +230,6 @@ and (max-width: 900px)
 ```
 
 </details>
-
 </details>
 
 
