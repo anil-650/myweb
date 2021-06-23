@@ -12,7 +12,7 @@ You can find both the html and css code this way
 - 🆗 Nav bar and basic functions
 - ❌ Adding content
 - ❌ Adding background img
-- ❌🆗 Responsive (partially)
+- ❌🆗 Responsive (partially more testing on pc port needed)
 
 ```bash
 .
