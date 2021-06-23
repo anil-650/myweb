@@ -6,6 +6,8 @@ You can find both the html and css code this way
 
 [![DIS WAY][1]][2]
 
+*"Yes click the above pic"👆*
+
 ## current progress and how it looks
 - ❌ Final Build
 - 🆗 Skeleton for the website
