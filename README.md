@@ -14,6 +14,8 @@ You can find both the html and css code this way
 - ❌ Adding background img
 - ❌🆗 Responsive (partially more testing on pc port needed)
 
+---
+
 ```bash
 .
 ├── index.html
@@ -24,6 +26,8 @@ You can find both the html and css code this way
 │   └── mob-only.css
 └── img
 ```
+
+---
 
 [1]:./img/thisway.png
 [2]:./md/info-tree.md
