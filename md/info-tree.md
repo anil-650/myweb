@@ -1,5 +1,5 @@
 
-![jeanD'arc](./img/wall-pre-jeandarc.jpg)
+![jean](./img/wall-pre-jeandarc.jpeg)
 
 
 
